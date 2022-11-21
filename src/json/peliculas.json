@@ -1,0 +1,44 @@
+[
+    {
+        "img": "../img/star wars.jpg",
+        "titulo": "Star Wars Episodio III:La venganza de los sith",
+        "synopsis": "La Guerra de los Clones causa furor. Existe una clara hostilidad entre el Canciller Palpatine y el Consejo Jedi.Anakin Skywalker, joven Caballero Jedi entre la espada y la pared, duda sobre qué camino seguir. Seducido por la promesa de un poder sin parangón,  tentado por el lado oscuro de la Fuerza, jura lealtad al maléfico Darth Sidious y se convierte en Darth Vader.Los Señores Sith unen sus fuerzas para preparar su revancha, que comenzará con el exterminio de los Jedi. Los únicos supervivientes de la masacre, Yoda y Obi Wan se lanzan a la búsqueda de los Sith. La persecución acaba con un espectacular combate de sables entre Anakin y Obi Wan, que decidirá el futuro de la galaxia.",
+        "director": "George Lucas",
+        "reparto": "Hayden Christensen, Ewan McGregor, Natalie Portman",
+        "duracion": "2h 20min"
+    },
+    {
+        "img": "../img/spider man.jpg",
+        "titulo": "Spider-Man No Way Home",
+        "synopsis": "Por primera vez en la historia cinematográfica de Spider-Man, nuestro héroe, vecino y amigo es desenmascarado,y por tanto, ya no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un superhéroe. Cuando pide ayuda al Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser él. Secuela de 'Spider-Man: Far From Home'.",
+        "director": "Jon Watts",
+        "reparto": "Tom Holland, Zendaya, Benedict Cumberbatch, Alfred Molina, Tobey Maguire, Andrew Garfield",
+        "duracion": "2h 59min"
+    },
+    {
+        "img": "../img/interrestellar.jpg",
+        "titulo": "Interrestellar",
+        "synopsis": "Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores dirigidos por el piloto Cooper (McConaughey) y la científica Amelia (Hathaway) emprende una misión que puede ser la más importante de la historia de la humanidad: viajar más allá de nuestra galaxia para descubrir algún planeta en otra que pueda garantizar el futuro de la raza humana.",
+        "director": "Christopher Nolan",
+        "reparto": "Matthew McConaughey, Anne Hathaway, David Gyasi, Jessica Chastain",
+        "duracion": "169min"
+    },
+
+    {
+        "img": "../img/avengers.jpg",
+        "titulo": "Avengers:EndGame",
+        "synopsis": "Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar,deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias... Cuarta y última entrega de la saga Vengadores .",
+        "director": "Anthony Russo, Joe Russo",
+        "reparto": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+        "duracion": "181min"
+    },
+    {
+        "img": "../img/infinity war.jpg",
+        "titulo": "Avengers:Infinity War",
+        "synopsis": "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+        "director": "Anthony Russo, Joe Russo",
+        "reparto": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "duracion": "156min"
+    }
+
+]
